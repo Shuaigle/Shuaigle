@@ -1,5 +1,10 @@
-### Hi there 👋
+### Hi there 👋   I'm Shuaigle, this is my profile.
 
+🌱 I’m currently learning Reactjs, Nextjs, and Django
+👯 I’m currently finding a frontend/backend job
+🔭 I have also study some data analysis and machine/deep learning methods
+📫 How to reach me: layard3@gmail.com
+💬 Ask me about anything (? haha
 <!--
 **Shuaigle/Shuaigle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
