@@ -1,6 +1,7 @@
 ### Hi there 👋   I'm Shuaigle, this is my profile.
 
-🌱 I’m currently learning Reactjs, Nextjs, and Django
+# About me
+🌱 I’m currently learning Reactjs, Nextjs, and Django /n
 👯 I’m currently finding a frontend/backend job
 🔭 I have also study some data analysis and machine/deep learning methods
 📫 How to reach me: layard3@gmail.com
