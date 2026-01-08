@@ -1,8 +1,8 @@
 ### Hi there 👋   I'm Shuaigle, this is my profile.
 
 ### About me
- - 🌱 I’m currently using java to build web apps
- - 👯 I’m currently working as a backend developer
+ - 🌱 I’m currently building web apps and ios apps
+ - 👯 I’m currently working as a senior backend developer
  - 🔭 I have also studied some data analysis and machine/deep learning methods
  - 💬 May the force be with you
 
