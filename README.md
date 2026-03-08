@@ -1,13 +1,27 @@
-### Hi there 👋   I'm Shuaigle, this is my profile.
+## Hey, I’m Shuaigle 👋
 
-### About me
- - 🌱 I’m currently building web apps and ios apps
- - 👯 I’m currently working as a senior backend developer
- - 🔭 I have also studied some data analysis and machine/deep learning methods
- - 💬 May the force be with you
+Senior Backend Engineer passionate about building scalable systems and exploring the intersection of software engineering and AI.
+
+### What I Do
+
+- **Backend Architecture** — Designing and building high-performance, scalable backend services and APIs
+- **Full-Stack Development** — Building web applications and iOS apps end-to-end
+- **AI / ML** — Applying machine learning and deep learning techniques to solve real-world problems; currently diving deeper into LLM applications and AI-driven development
+
+### Tech & Interests
+
+- Distributed systems, system design, and performance optimization
+- Data pipelines, data analysis, and ML/DL model development
+- Always learning — currently exploring LLM integration, RAG, and AI agents
+
+### Philosophy
+
+> Write code that scales. Build systems that last. Never stop learning.
+
+---
 
 <picture>
-<source 
+<source
   srcset="https://github-readme-stats.vercel.app/api?username=Shuaigle&show_icons=true&theme=transparent&count_private=true"
   media="(prefers-color-scheme: transparent)"
 />
