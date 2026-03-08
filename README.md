@@ -5,7 +5,7 @@ Senior Backend Engineer passionate about building scalable systems and exploring
 ### What I Do
 
 - **Backend Architecture** — Designing and building high-performance, scalable backend services and APIs
-- **Full-Stack Development** — Building web applications and iOS apps end-to-end
+- **Full-Stack Development** — Building web applications end-to-end
 - **AI / ML** — Applying machine learning and deep learning techniques to solve real-world problems; currently diving deeper into LLM applications and AI-driven development
 
 ### Tech & Interests
